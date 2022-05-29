@@ -16,18 +16,18 @@ TEAM MEMBERS:
 
 PROJECT OUTCOME:
 - First, our main page is a dropdown for the user to choose if he wants to look at the chest or the head.
-![](https://github.com/sbme-tutorials/sben224_spring22_project-sben224_s22_team_5/blob/main/Screenshot%20(44).png)
+![](Screenshot%20(44).png)
 
 - Then, if the user chooses the head, he’ll find a 3D figure of a skull with a slider at the top left of the screen to be able to control the iso value. 
-![](https://github.com/sbme-tutorials/sben224_spring22_project-sben224_s22_team_5/blob/main/Screenshot%20(47).png)
-![](https://github.com/sbme-tutorials/sben224_spring22_project-sben224_s22_team_5/blob/main/Screenshot%20(48).png)
+![](Screenshot%20(47).png)
+![](Screenshot%20(48).png)
 
 - Then, if the user chooses the chest, he will find a 3D figure of a chest skeleton with some points on each plane of the 3 graphs of the figure to be able to control cutting volume and a checkbox to be able to control some features of the chest. 
-![](https://github.com/sbme-tutorials/sben224_spring22_project-sben224_s22_team_5/blob/main/Screenshot%20(45).png)
-![](https://github.com/sbme-tutorials/sben224_spring22_project-sben224_s22_team_5/blob/main/Screenshot%20(46).png)
+![](Screenshot%20(45).png)
+![](Screenshot%20(46).png)
 
 - The BONUS part of the transfer function was also completed.
-![](https://github.com/sbme-tutorials/sben224_spring22_project-sben224_s22_team_5/blob/main/Screenshot.png)
+![](Screenshot.png)
 
 
 
