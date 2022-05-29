@@ -1,3 +1,11 @@
+# Medical Visualization WebApp
+
+This is a  Web GUI application that does 3D visualization of DICOM series Using VTK.js library.
+
+## Website Link
+
+### <a href= "https://zeyad-alo.github.io/Medical-Visualization-Webapp/dist/index.html">🔗 Click Here</a>
+
 TEAM MEMBERS:
 - Zeyad Mansour
 - Daniel Rafik
